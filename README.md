@@ -10,10 +10,10 @@ When considering all the school information, the district summary showed that fo
 We can see the above data in the following results:
 
              District summary (Original Analysis)
-![Title](images/District_summary_original.png)
+![Title](Images/District_summary_original.png)
 
             District summary (without 9th graders THS)
-![Title](images/District_summary_THS.png)
+![Title](Images/District_summary_THS.png)
 
 •	How is the school summary affected?
 
